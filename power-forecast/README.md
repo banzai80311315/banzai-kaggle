@@ -7,6 +7,7 @@ Kaggle 電力需要予測（Power Forecast）プロジェクト。
 
 ## ディレクトリ構成
 
+```text
 banzai-kaggle/
 └── power-forecast/              # Kaggle 電力予測プロジェクト
     ├── notebooks/               # ノートブック (.ipynb)
@@ -16,3 +17,5 @@ banzai-kaggle/
     │   └── processed/           # 前処理済データ
     ├── models/                  # 学習済みモデル
     └── README.md                # プロジェクト概要
+```
+
