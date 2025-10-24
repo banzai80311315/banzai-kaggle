@@ -1,7 +1,6 @@
 # Power Forecast Project
 
-Kaggle の [Hourly Energy Consumption Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption) を題材に、  
-電験3種で学ぶ電力需給の知識とデータサイエンスを融合させて学習します。  
+Kaggle の [Hourly Energy Consumption Dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption) を題材として、電験3種で学ぶ電力需給の知識とデータサイエンスを融合させて学習します。  
 目標は「気温・曜日・時間帯などから電力需要を予測するモデルを構築」し、電力業界の需給計画・負荷平準化への理解を深めることです。
 
 ## 学習計画
