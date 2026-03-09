@@ -1,0 +1,30 @@
+# === Python関連 ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+*.tmp
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === 仮想環境 ===
+.venv/
+env/
+venv/
+
+# === データファイル（大容量） ===
+data/raw/
+data/processed/
+models/
+
+# === VSCode・エディタ ===
+.vscode/
+.idea/
+
+# === OSファイル ===
+.DS_Store
+Thumbs.db
